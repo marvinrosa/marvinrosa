@@ -9,7 +9,8 @@ Under construction
 [https://marvinrosa.dev/](https://marvinrosa.dev/)
 
 ### Learning
-- 🐱‍👤 Aprendiendo React con Next JS + Chakra UI, Node y Express JS
+- 🐱‍👤 React Hooks con Next JS + Chakra UI, Node
+- Postgres Sql
 
 ## Connect with me
 
