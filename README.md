@@ -2,7 +2,7 @@
 
 I am a Software Developer from [El Salvador](https://www.google.com/search?q=el+salvador&rlz=1C1CHBD_esSV981SV981&oq=el+salvador&aqs=chrome..69i57j46i131i395i433i512j69i61j69i65l3j69i60l2.1772j1j7&sourceid=chrome&ie=UTF-8)
 - Java Spring Boot - Rest API
-- 🔭 Working on ASP.NET Web Forms,Bootstrap, SQL SERVER
+- ASP.NET Web Forms,Bootstrap, SQL SERVER
 - PHP Codeigniter + Bootstrap + MySQL
 
 ### My Personal Website 
