@@ -9,8 +9,8 @@ I am a Software Developer from [El Salvador](https://www.google.com/search?q=el+
 Under construction
 [https://marvinrosa.dev/](https://marvinrosa.dev/)
 
-### Chanllenge
-- 🐱‍👤 React
+### Chanllenge for learning
+- 🐱‍👤 React Hooks + Redux
 
 ## Connect with me
 
