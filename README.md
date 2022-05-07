@@ -9,7 +9,7 @@ I am a Software Developer from [El Salvador](https://www.google.com/search?q=el+
 Under construction
 [https://marvinrosa.dev/](https://marvinrosa.dev/)
 
-### Chanlenge
+### Chanllenge
 - 🐱‍👤 React
 
 ## Connect with me
